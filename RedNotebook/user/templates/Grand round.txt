@@ -1,0 +1,21 @@
+=== Grand (Clinical) Rounds ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Lead faculty member:**
+
+**Department and Unit:**
+
+**Cases seen:**
++
++
++
+
+
+**Discussion and Conclusion:**
++
++
++
+==================================

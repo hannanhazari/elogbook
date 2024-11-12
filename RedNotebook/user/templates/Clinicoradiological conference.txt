@@ -1,0 +1,27 @@
+=== Clinico-radiological Conference ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Presenter(s):**
+
+**Department(s):**
+
+**Faculty moderator from the Department of Radiodiagnosis:**
+
+**OP/IP No.:**
+
+**Diagnosis:**
+
+**Present:**
++
++
++
+
+
+**Discussion and Conclusion:**
++
++
++
+==================================

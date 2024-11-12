@@ -1,0 +1,23 @@
+=== Skills Training ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Faculty Name:**
+
+**Topic/ Competency addressed:**
+
+**Present:**
++
++
++
+
+**Image(s):** [""/path/to/your/pracicalreport.jpg""]
+
+
+**Summary:**
++
++
++
+==================================

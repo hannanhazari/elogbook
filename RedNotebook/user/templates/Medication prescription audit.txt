@@ -1,0 +1,23 @@
+=== Medication Prescription Audit ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Faculty Moderator:**
+
+**Topic:**
+
+**Patient(s) OP/IP Nos:**
++
++
++
+
+
+**Dignosis and Guidelines:**
++
++
++
+
+Refer to the International and National Guidelines. For example ICMR Standard Treatment Workflows (STW)
+==================================

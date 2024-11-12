@@ -1,0 +1,23 @@
+=== Seminar ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Presenter:**
+
+**Moderator:**
+
+**Topic:**
+
+**Present:**
++
++
++
+
+
+**Discussion, Conclusion, Way forward:**
++
++
++
+==================================

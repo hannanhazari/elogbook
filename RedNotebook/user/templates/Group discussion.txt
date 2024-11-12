@@ -1,0 +1,23 @@
+=== Group Discussion ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Group leader:**
+
+**Faculty Moderator:**
+
+**Topic:**
+
+**Present:**
++
++
++
+
+
+**Discussion and Conclusion:**
++
++
++
+==================================

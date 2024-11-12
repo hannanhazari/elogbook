@@ -1,0 +1,17 @@
+=== Guest Lecture ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Speaker:**
+
+**Speaker affiliation:**
+
+**Topic:**
+
+**Take home message:**
++
++
++
+==================================

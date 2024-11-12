@@ -1,0 +1,17 @@
+=== Formative Assessment (FA) ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Duration:**
+
+**Topics covered:**
+
+**Format of assessment:** Written | Viva-voce | MCQs | Practical (OSPE) | Clinical (OSCE) | WPBA
+
+**Link to the question paper on your computer (if any):** [questionpaper.pdf ""/path/to/questionpaper.pdf""]
+
+**Marks obtained:**
+
+==================================

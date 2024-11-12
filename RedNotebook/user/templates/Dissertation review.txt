@@ -1,0 +1,23 @@
+=== Dissertation Review ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Student's Name:**
+
+**Guide/Supervisor:**
+
+**Dissertation Title:**
+
+**Work completed so far:**
++
++
++
+
+
+**Inputs and suggestions from the guide:**
++
++
++
+==================================

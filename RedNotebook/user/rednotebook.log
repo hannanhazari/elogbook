@@ -1,0 +1,32 @@
+2024-11-10 15:21:20,837 INFO     Writing log to file "G:\DCMSELogbook\RedNotebook\user\rednotebook.log"
+2024-11-10 15:21:20,837 INFO     System encoding: utf-8
+2024-11-10 15:21:20,837 INFO     Language code: en_US
+2024-11-10 15:21:21,000 INFO     Spell checking languages: ['de_DE', 'en_AU', 'en_GB', 'en_US', 'fr_FR']
+2024-11-10 15:21:21,000 INFO     Spell checking dictionaries: [('de_DE', <Enchant: Myspell Provider>), ('en_AU', <Enchant: Myspell Provider>), ('en_GB', <Enchant: Myspell Provider>), ('en_US', <Enchant: Myspell Provider>), ('fr_FR', <Enchant: Myspell Provider>)]
+2024-11-10 15:21:21,417 INFO     Using LibYAML
+2024-11-10 15:21:21,423 INFO     Connected Signals: [<Signals.SIGINT: 2>, <Signals.SIGABRT: 22>, <Signals.SIGTERM: 15>]
+2024-11-10 15:21:21,617 INFO     Running in portable mode: True
+2024-11-10 15:21:21,617 INFO     First Start: False
+2024-11-10 15:21:21,624 INFO     RedNotebook version: 2.35
+2024-11-10 15:21:22,166 INFO     System info: machine: AMD64, platform: Windows-10-10.0.19045-SP0, processor: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel, python_version: 3.9.13, release: 10, system: Windows, GTK: (3, 24, 33), Glib: (2, 72, 1), PyGObject: (3, 42, 0), YAML: 5.4.1
+2024-11-10 15:21:24,897 DEBUG    Default font: Segoe UI 9
+2024-11-10 15:21:24,897 DEBUG    Default size: 9.0
+2024-11-10 15:21:26,614 DEBUG    Tray icon visible: False
+2024-11-10 15:21:26,631 INFO     Opening journal at 'G:\\DCMSELogbook\\RedNotebook\\user\\data'
+2024-11-10 15:21:26,631 DEBUG    Starting to load files in dir "G:\DCMSELogbook\RedNotebook\user\data"
+2024-11-10 15:21:26,632 DEBUG    Finished loading files in dir "G:\DCMSELogbook\RedNotebook\user\data"
+2024-11-10 15:21:27,387 INFO     Last backup was made 0 days ago
+2024-11-10 15:21:34,606 DEBUG    Add mathjax code: True
+2024-11-10 15:31:27,761 INFO     Nothing to save
+2024-11-10 15:31:27,761 INFO     Configuration has been saved to G:\DCMSELogbook\RedNotebook\user\configuration.cfg
+2024-11-10 15:41:27,765 INFO     Nothing to save
+2024-11-10 15:51:27,753 INFO     Nothing to save
+2024-11-10 16:01:27,759 INFO     Nothing to save
+2024-11-10 16:11:27,749 INFO     Nothing to save
+2024-11-10 16:21:27,753 INFO     Nothing to save
+2024-11-10 16:31:27,753 INFO     Nothing to save
+2024-11-10 16:41:27,763 INFO     Nothing to save
+2024-11-10 17:12:01,910 INFO     Nothing to save
+2024-11-10 17:19:48,086 DEBUG    Main frame destroyed
+2024-11-10 17:19:48,134 INFO     Nothing to save
+2024-11-10 17:19:48,135 INFO     Goodbye!

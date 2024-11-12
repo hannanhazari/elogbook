@@ -1,0 +1,23 @@
+=== Bedside Clinic ===
+
+**Date [yyyy-mm-dd]:**
+
+**Time:**
+
+**Faculty:**
+
+**OP/IP No.:**
+
+**Diagnosis:**
+
+**Present:**
++
++
++
+
+
+**Discussion and Conclusion:**
++
++
++
+==================================
